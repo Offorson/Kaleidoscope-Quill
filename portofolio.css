@@ -1,0 +1,119 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:ital,wght@1,100;1,400;1,900&family=Rubik&family=Sofia+Sans+Condensed:ital,wght@1,300&display=swap");
+
+* {
+  padding: 0%;
+  margin: 0%;
+  /* background-color: blue; */
+  /* overflow: scroll; */
+  /* outline: 2px solid gold; */
+}
+
+.back-arrow {
+  width: 50px;
+  margin-top: 10px;
+}
+
+h1 {
+  font-family: "Sofia Sans Condensed", sans-serif;
+  font-size: 55px;
+  /* font-weight: 2; */
+  color: #daa520;
+  margin-top: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.samples-div {
+  display: flex;
+  width: 80%;
+  margin: auto;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.a-portfolio-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.a-portfolio {
+  width: 250px;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.portfolio-preview-text {
+  font-family: "Sofia Sans Condensed", sans-serif;
+  margin-top: 8px;
+}
+.portfolio-preview-text-header {
+  font-family: "Sofia Sans Condensed", sans-serif;
+}
+
+img {
+  width: 230px;
+}
+
+button {
+  border: none;
+  background-color: goldenrod;
+  margin-top: 30px;
+  width: 60%;
+  color: white;
+  padding: 12px 0px;
+  border-radius: 20px;
+  font-size: 25px;
+  font-family: "Sofia Sans condensed", sans-serif;
+}
+
+.section4 {
+  width: 80%;
+  margin: auto;
+  margin-top: 120px;
+  margin-bottom: 80px;
+  border: 1px solid goldenrod;
+  border-radius: 20px;
+  justify-content: space-around;
+  /* align-content: space-between; */
+  /* padding: 100px; */
+  display: flex;
+  flex-wrap: wrap;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.section4-img-div {
+  /* width: 30%; */
+  /* margin: auto;  */
+  /* margin: 85px; */
+  width: 250px;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+
+.section4 img {
+  width: 100%;
+  border-radius: 20px;
+}
+
+.sample-writeup {
+  width: 300px;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  margin-bottom: 40px;
+  font-family: "Sofia Sans Condensed", sans-serif;
+}
+
+/* em {
+  font-family: Italianno;
+  font-size: small;
+} */

@@ -1,0 +1,10 @@
+@media only screen and (max-width: 715px) {
+  .sample-writeup {
+    margin-top: 0rem;
+  }
+  
+  .sample-writeup h1 {
+    font-size: 40px;
+  }
+
+}
