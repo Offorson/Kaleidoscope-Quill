@@ -12,9 +12,17 @@
   float: right;
 }
 
+.back-arrow {
+  width: 50px;
+  margin-top: 10px;
+}
 
 body {
   background-color: #3e0907;
+}
+
+img{
+  width: 300px;
 }
 
 header {
@@ -78,10 +86,10 @@ li {
 }
 
 /* Change background on mouse-over */
-.navbar a:hover {
+/* .navbar a:hover {
   background-color: #3e0907;
   color: white;
-}
+} */
 
 /* .entry-text-div{
 align-items: center;
@@ -100,7 +108,7 @@ vertical-align: middle;
 }
 
 .spicy-jambalaya {
-  width: 100%;
+  /* width: 1%; */
   margin-top: 20px;
 }
 

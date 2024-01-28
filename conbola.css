@@ -5,10 +5,10 @@
   overflow: auto;
 }
 
-.emailme {
-  background-color: red;
-  color: white;
-  float: right;
+.back-arrow{
+  width: 50px;
+  margin-top: 10px;
+  
 }
 
 header {
@@ -42,6 +42,14 @@ h2 {
   color: green;
 }
 
+ul{
+  font-family: "Sofia Sans Condensed", sans-serif;;
+}
+
+p{
+  margin-top: 10px;
+}
+
 .navbar {
   overflow: hidden;
   /* background-color: #3e0907; */
@@ -55,17 +63,17 @@ h2 {
 .navbar a {
   float: left;
   display: block;
-  color: black;
+  /* color: black; */
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 
 /* Change background on mouse-over */
-.navbar a:hover {
+/* .navbar a:hover {
   background-color: black;
   color: white;
-}
+} */
 
 .text-div {
   text-align: left;
@@ -78,8 +86,12 @@ h2 {
 }
 
 img {
-  width: 100%;
+  width: 300px;
   margin-top: 20px;
+}
+
+.spicy-jambalaya{
+  width: 100%;
 }
 
 .colors {
